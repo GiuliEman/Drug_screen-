@@ -1,6 +1,6 @@
 # Drug_PreScreen
 
-As a cell biologist, I run some phenotypic drug screens in reporter cell lines to filter down test compounds from libraries of thousands, down to a few hundred. 
+As a cell biologist, I run some phenotypic drug screens in reporter cell lines to filter test compounds from libraries of thousands, down to a few hundred. 
 This enables to prioritise in-depth testing on smaller samples.
 
 To handle the vast number or tested molecules in various conditions Pandas comes really handy!
