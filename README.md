@@ -1,4 +1,4 @@
-# Drug_prescreen
+# Drug_PreScreen
 
 As a cell biologist, I run some phenotypic drug screens in reporter cell lines to filter down test compounds from libraries of thousands, down to a few hundred. 
 This enables to prioritise in-depth testing on smaller samples.
